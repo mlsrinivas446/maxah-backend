@@ -1,0 +1,1 @@
+This backend also fetches initial product data from the Fakestore API to populate the MongoDB database. This can be done by hitting the GET /api/products endpoint, which will automatically retrieve the products from the Fakestore API and save them in the MongoDB database.
